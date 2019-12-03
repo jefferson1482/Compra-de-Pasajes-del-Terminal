@@ -1,0 +1,7 @@
+C:\Users\CompuStore\source\repos\Sistema de Busqueda\Sistema de Busqueda\bin\Debug\Sistema de Busqueda.exe.config
+C:\Users\CompuStore\source\repos\Sistema de Busqueda\Sistema de Busqueda\bin\Debug\Sistema de Busqueda.exe
+C:\Users\CompuStore\source\repos\Sistema de Busqueda\Sistema de Busqueda\bin\Debug\Sistema de Busqueda.pdb
+C:\Users\CompuStore\source\repos\Sistema de Busqueda\Sistema de Busqueda\obj\Debug\Sistema de Busqueda.csprojAssemblyReference.cache
+C:\Users\CompuStore\source\repos\Sistema de Busqueda\Sistema de Busqueda\obj\Debug\Sistema de Busqueda.csproj.CoreCompileInputs.cache
+C:\Users\CompuStore\source\repos\Sistema de Busqueda\Sistema de Busqueda\obj\Debug\Sistema de Busqueda.exe
+C:\Users\CompuStore\source\repos\Sistema de Busqueda\Sistema de Busqueda\obj\Debug\Sistema de Busqueda.pdb
